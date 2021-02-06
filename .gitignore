@@ -1,0 +1,3 @@
+deps/
+.vscode
+testdata/mnist/
