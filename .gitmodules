@@ -1,0 +1,3 @@
+[submodule "test/MNIST_for_C"]
+	path = test/MNIST_for_C
+	url = https://github.com/takafumihoriuchi/MNIST_for_C.git
