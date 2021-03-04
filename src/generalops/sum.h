@@ -1,6 +1,6 @@
 #include "../tinclude.h"
 
-#undef tensor_sum
+#undef tensor_sum_
 #define sum_build(type) tensor_sum_##type
 #define tensor_sum_(type) sum_build(type)
 static inline tensor_t
